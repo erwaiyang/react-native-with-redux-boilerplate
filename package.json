@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erwaiyang/react-native-app-with-redux.git"
+    "url": "git+https://github.com/erwaiyang/react-native-with-redux-boilerplate.git"
   },
   "author": {
     "name": "erwaiyang",
