@@ -35,6 +35,11 @@ class AppContainer extends Component {
             minus
           </Text>
         </TouchableOpacity>
+        <TouchableOpacity onPress={this.props.counterActions.incrementAsync}>
+          <Text style={styles.action}>
+            Async Plus
+          </Text>
+        </TouchableOpacity>
       </View>
     );
   }
